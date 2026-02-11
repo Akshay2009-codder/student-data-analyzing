@@ -13,7 +13,6 @@ This project analyzes student performance data using Python libraries such as Nu
 ## 🛠️ Technologies Used
 - Python
 - NumPy
-- Pandas
-- Matplotlib / Seaborn (if used)
+
 
 
